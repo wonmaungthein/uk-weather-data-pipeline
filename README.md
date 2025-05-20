@@ -24,3 +24,6 @@ This project demonstrates an end-to-end **data engineering pipeline** that fetch
 ---
 
 ## 📂 Project Structure
+
+![Screenshot of Streamlit Dashboard Birmingham](screenshot.png) 
+![Screenshot of Streamlit Dashboard Glasgow](screenshot1.png)
